@@ -1,4 +1,4 @@
-﻿namespace three_tier_architecture.Controllers
+﻿namespace API.Controllers
 {
     public class UserController
     {
